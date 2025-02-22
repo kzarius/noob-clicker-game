@@ -3,7 +3,7 @@
 import pygame
 import time
  
- 
+# I love crabs.
 # initializing pygame
  
 pygame.init()
