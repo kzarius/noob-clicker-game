@@ -7,8 +7,7 @@ import time
 # initializing pygame
  
 pygame.init()
- 
- # cut and burn and make ash for basil farmer 
+# Cuckold
 # defining variables
  #do something neww
 # I like eggs
