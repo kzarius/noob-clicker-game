@@ -8,9 +8,11 @@ import time
  
 pygame.init()
  
-# defining variables
+ # cut and burn and make ash for basil farmer 
  
-
+# defining variables
+ #do something neww
+# I like eggs
  # NO U
 #FU 
 clock = pygame.time.Clock()
