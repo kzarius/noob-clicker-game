@@ -3,17 +3,10 @@
 import pygame
 import time
  
-# I love crabs.
 # initializing pygame
- 
 pygame.init()
-# Cuckold
+
 # defining variables
- #do something neww
-# I like eggs
-# chicken pie holes
- # NO U
-#FU 
 clock = pygame.time.Clock()
 ver = "Beta 0.1.6.3"
 autog = 0
