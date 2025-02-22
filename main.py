@@ -9,7 +9,7 @@ import time
 pygame.init()
  
 # defining variables
- 
+#FU 
 clock = pygame.time.Clock()
 ver = "Beta 0.1.6.3"
 autog = 0
