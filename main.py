@@ -9,7 +9,6 @@ import time
 pygame.init()
  
  # cut and burn and make ash for basil farmer 
- 
 # defining variables
  #do something neww
 # I like eggs
@@ -63,9 +62,9 @@ def main_loop():
     global clock
     global autog
     global ver
-    global color1
-    global color2
-    global color3
+    global green
+    global silver
+    global white
     mong = 1
     cost = 50
     cost2 = 50
