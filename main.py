@@ -3,13 +3,14 @@
 import pygame
 import time
  
- 
 # initializing pygame
  
 pygame.init()
  
 # defining variables
  
+
+ # NO U
 clock = pygame.time.Clock()
 ver = "Beta 0.1.6.3"
 autog = 0
