@@ -3,19 +3,10 @@
 import pygame
 import time
  
-# I love crabs.
 # initializing pygame
- 
 pygame.init()
-# Cuckold
-# # this is for Hime to testttttt
- # cut and burn and make ash for basil farmer 
-  # defining variables
- #do something neww#do something neww
-# I like eggs
-# chicken pie holes
- # NO U
-#FU 
+
+# defining variables
 clock = pygame.time.Clock()
 ver = "Beta 0.1.6.3"
 autog = 0
@@ -31,12 +22,10 @@ grey = (128, 128, 128)
 blue = (0, 100, 250)
  
 # creating display and caption
- # fuck
 gameDisplay = pygame.display.set_mode((display_width, display_height))
 pygame.display.set_caption("clicky clicks")
  
 # defining functions
- 
 def circle(display, color, x, y, radius):
     pygame.draw.circle(display, color, [x, y], radius)
  
@@ -107,7 +96,6 @@ def main_loop():
  
  
         # drawing stuff
- 
         gameDisplay.fill(light_blue)
         DrawText("Clicky Clicks", black, light_blue, 400, 100, 50)
         DrawText("you have " + str(f'{coins:.2f}') + " coins", black, light_blue, 100, 50, 20)
@@ -121,7 +109,6 @@ def main_loop():
         clock.tick(60)
  
 # ending the program
- 
 main_loop()
 pygame.quit()
 quit()
