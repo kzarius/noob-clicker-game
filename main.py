@@ -7,11 +7,13 @@ import time
 # initializing pygame
  
 pygame.init()
- # this is for Hime to testttttt
+# Cuckold
+# # this is for Hime to testttttt
  # cut and burn and make ash for basil farmer 
   # defining variables
- #do something neww
+ #do something neww#do something neww
 # I like eggs
+# chicken pie holes
  # NO U
 #FU 
 clock = pygame.time.Clock()
@@ -29,7 +31,7 @@ grey = (128, 128, 128)
 blue = (0, 100, 250)
  
 # creating display and caption
- 
+ # fuck
 gameDisplay = pygame.display.set_mode((display_width, display_height))
 pygame.display.set_caption("clicky clicks")
  
@@ -61,9 +63,9 @@ def main_loop():
     global clock
     global autog
     global ver
-    global color1
-    global color2
-    global color3
+    global green
+    global silver
+    global white
     mong = 1
     cost = 50
     cost2 = 50
