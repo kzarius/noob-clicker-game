@@ -3,6 +3,7 @@
 import pygame
 import time
  
+# I like eggs
  
 # initializing pygame
  
