@@ -29,7 +29,7 @@ grey = (128, 128, 128)
 blue = (0, 100, 250)
  
 # creating display and caption
- 
+ # fuck
 gameDisplay = pygame.display.set_mode((display_width, display_height))
 pygame.display.set_caption("clicky clicks")
  
