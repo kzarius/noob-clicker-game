@@ -9,8 +9,7 @@ import time
 pygame.init()
  
  # cut and burn and make ash for basil farmer 
- 
-# defining variables
+  # defining variables
  #do something neww
 # I like eggs
  # NO U
