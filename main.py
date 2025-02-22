@@ -10,7 +10,7 @@ pygame.init()
  
 # defining variables
  
-
+# I like eggs
  # NO U
 #FU 
 clock = pygame.time.Clock()
