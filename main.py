@@ -7,9 +7,10 @@ import time
 # initializing pygame
  
 pygame.init()
- 
-# defining variables
- 
+ # this is for Hime to testttttt
+ # cut and burn and make ash for basil farmer 
+  # defining variables
+ #do something neww
 # I like eggs
  # NO U
 #FU 
